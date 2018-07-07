@@ -6,6 +6,7 @@ import cv2
 import os
 import h5py
 import random
+from features import *
 
 
 # get the training labels
